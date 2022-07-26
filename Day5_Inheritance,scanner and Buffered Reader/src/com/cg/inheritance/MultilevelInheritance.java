@@ -10,7 +10,7 @@ class car
 }
  class Renault extends car
  {
-	 public  string brand="Renault";
+	 public  String brand="Renault";
 	 void brand()
 	 {
 		 System.out.println("Brand is:"+brand);
