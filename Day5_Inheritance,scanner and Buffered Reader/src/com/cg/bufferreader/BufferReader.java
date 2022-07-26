@@ -14,13 +14,7 @@ public class BufferReader {
 		BufferedReader obj=new BufferedReader(new InputStreamReader(System.in));
 		String str=obj.readLine();
 
-		system.out.println(str);
-		
-		
-		
-		
-		
-		
+		 System.out.println(str);			
 
 	}
 }
