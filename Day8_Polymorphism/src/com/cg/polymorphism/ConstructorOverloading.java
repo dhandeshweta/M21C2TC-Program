@@ -26,6 +26,7 @@ class Triber
 
 public class ConstructorOverloading {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Triber t=new Triber();
 		Triber t1=new Triber(45, "Disel");

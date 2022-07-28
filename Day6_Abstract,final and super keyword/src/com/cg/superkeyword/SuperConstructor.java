@@ -24,6 +24,7 @@ class Rose extends Flower
 
 public class SuperConstructor {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		Rose r=new Rose();

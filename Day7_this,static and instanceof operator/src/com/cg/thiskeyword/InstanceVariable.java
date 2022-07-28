@@ -4,6 +4,7 @@ package com.cg.thiskeyword;
 class Fruit
 {
 	private String str;
+	@SuppressWarnings("unused")
 	private String str1;
 	void accept(String str,String str1)
 	{

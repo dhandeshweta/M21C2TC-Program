@@ -19,6 +19,7 @@ public class CurrentClassConstructor
 
 
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) 
 	{
 		
